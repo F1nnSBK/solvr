@@ -88,16 +88,6 @@ const modules = [
             :modules="modules"
           />
         </div>
-        <div class="p-4 border-t border-white/10 flex items-center justify-between">
-          <UColorModeButton />
-          <UButton
-            to="/auth/login"
-            label="Login"
-            size="sm"
-            color="neutral"
-            variant="soft"
-          />
-        </div>
       </aside>
 
       <!-- Main Content -->
